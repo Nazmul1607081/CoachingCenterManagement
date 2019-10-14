@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1528451787 source:e:\coachine center management project\coaching center management 1607081\main.cpp
+	<bits/stdc++.h>
+	"STUDENT.h"
+	"FIRST_PAGE.h"
+
+1530001704 source:e:\coachine center management project\coaching center management 1607081\student.cpp
+	"FIRST_PAGE.h"
+	"STUDENT.h"
+	<bits/stdc++.h>
+	<bits/stdc++.h>
+	"STUDENT.h"
+	"RESULT.h"
+	"MatrixFun.h"
+	"COMPLEX.h"
+	<windows.h>
+	<stdio.h>
+	<ctime>
+
+1529999841 e:\coachine center management project\coaching center management 1607081\student.h
+	<string>
+
+1527227553 e:\coachine center management project\coaching center management 1607081\first_page.h
+
+1530001704 source:e:\coachine center management project\coaching center management 1607081\first_page.cpp
+	"FIRST_PAGE.h"
+	"STUDENT.h"
+	<bits/stdc++.h>
+	"STUDENT.h"
+	<bits/stdc++.h>
+	"RESULT.h"
+	"MatrixFun.h"
+	"COMPLEX.h"
+	<windows.h>
+	<stdio.h>
+	<ctime>
+
+1530087820 source:e:\coachine center management project\coaching center management 1607081\result.cpp
+	"RESULT.h"
+	"FIRST_PAGE.h"
+	"STUDENT.h"
+	<bits/stdc++.h>
+	"COMPLEX.h"
+	<bits/stdc++.h>
+
+1530087771 e:\coachine center management project\coaching center management 1607081\result.h
+	<string>
+	"STUDENT.h"
+
+1529788774 source:e:\coachine center management project\coaching center management 1607081\matrixfun.cpp
+	"MatrixFun.h"
+	"RESULT.h"
+	"FIRST_PAGE.h"
+	"STUDENT.h"
+	<bits/stdc++.h>
+	"COMPLEX.h"
+	<iostream>
+
+1529474708 e:\coachine center management project\coaching center management 1607081\matrixfun.h
+	<iostream>
+	"COMPLEX.h"
+
+1529473343 source:e:\coachine center management project\coaching center management 1607081\complex.cpp
+	"MatrixFun.h"
+	"RESULT.h"
+	"FIRST_PAGE.h"
+	"STUDENT.h"
+	<bits/stdc++.h>
+	"COMPLEX.h"
+	<iostream>
+
+1529431339 e:\coachine center management project\coaching center management 1607081\complex.h
+	<iostream>
+
